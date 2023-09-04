@@ -1,0 +1,26 @@
+.carousel-item img{
+    height: 500px;
+    background-position: center;
+    opacity: 0.8;
+}
+
+#myimg {
+    height: 100%;
+}
+
+#tel {
+    height: 100%;
+    
+}
+
+#backg {
+    background-image: url(https://images.unsplash.com/photo-1540774792855-251217abdab3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2942&q=80);
+    background-size: cover;
+    background-position: center;
+    border-radius: 21px 21px 0 0;
+}
+
+#foot a{
+    text-decoration: none;
+    color: #212529BF;
+}
